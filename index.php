@@ -11,6 +11,8 @@
     <a href="about.php">Home page</a>
 
     <h2>Welcome to my PHP Formation</h2>
+
+    <h1>DTC cohorte 2</h1>
   
 
 </body>
