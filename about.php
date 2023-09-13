@@ -8,10 +8,13 @@
 </head>
 
 <body>
-    <a href="about.php">Home page</a>
+    <a href="index.php">Home page</a>
 
-    <h2>Welcome to my PHP Formation</h2>
-  
+    <h2>About my Formation</h2>
+    <p>Wednesday 13 september 2023</p>
+    <p>at 15:20</p>
+
+
 
 </body>
 
